@@ -47,10 +47,6 @@ fintech-reviews-analytics/
 ├── requirements.txt                                                                                                                                   
 └── .gitignore                                                                                                                                   
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🚀 Technologies Used
