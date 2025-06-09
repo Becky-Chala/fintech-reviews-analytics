@@ -1,6 +1,3 @@
-### 📝 README.md Content (copy-paste into your repo)
-
-```markdown
 # Fintech Reviews Analytics
 
 This project is part of the 10 Academy Week 2 Challenge. The goal is to analyze user reviews from the Google Play Store for three Ethiopian banking apps and provide data-driven insights to improve customer experience.
@@ -42,17 +39,17 @@ Classify reviews into positive, neutral, or negative sentiment using VADER senti
 
 ## 📁 Project Structure
 
-```
-
 fintech-reviews-analytics/
-├── data/                      # Cleaned review datasets
+├── data/ # Cleaned review datasets
 ├── notebooks/
-│   └── task1\_scraping.ipynb   # Scraping and sentiment analysis
+│ └── task1_scraping.ipynb # Scraping and sentiment analysis
 ├── README.md
 ├── requirements.txt
 └── .gitignore
 
-```
+yaml
+Copy
+Edit
 
 ---
 
@@ -63,4 +60,3 @@ fintech-reviews-analytics/
 - Google Play Scraper
 - VADER Sentiment Analyzer
 - Jupyter Notebook
-```
