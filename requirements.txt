@@ -1,2 +1,7 @@
 google-play-scraper
 pandas
+pandas
+google-play-scraper
+vaderSentiment
+matplotlib
+seaborn
