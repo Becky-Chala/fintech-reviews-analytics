@@ -40,12 +40,12 @@ Classify reviews into positive, neutral, or negative sentiment using VADER senti
 ## 📁 Project Structure
 
 fintech-reviews-analytics/
-├── data/ # Cleaned review datasets
-├── notebooks/
-│ └── task1_scraping.ipynb # Scraping and sentiment analysis
-├── README.md
-├── requirements.txt
-└── .gitignore
+├── data/ # Cleaned review datasets                                                                                                                                   
+├── notebooks/                                                                                                                                   
+│ └── task1_scraping.ipynb # Scraping and sentiment analysis                                                                                                                       
+├── README.md                                                                                                                                   
+├── requirements.txt                                                                                                                                   
+└── .gitignore                                                                                                                                   
 
 yaml
 Copy
